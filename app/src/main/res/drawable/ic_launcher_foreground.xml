@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document background sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,22 L64,22 L76,34 L76,86 C76,88.2 74.2,90 72,90 L34,90 C31.8,90 30,88.2 30,86 L30,26 C30,23.8 31.8,22 34,22 Z" />
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#DBEAFE"
+        android:pathData="M64,22 L76,34 L64,34 Z" />
+    <!-- Lines on document -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M38,42 h28 v4 h-28 z M38,50 h28 v4 h-28 z M38,58 h20 v4 h-20 z M38,66 h16 v4 h-16 z" />
+    <!-- AI Spark badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M68,60 C68,60 70,66 74,66 C70,66 68,72 68,72 C68,72 66,66 62,66 C66,66 68,60 68,60 Z" />
+</vector>

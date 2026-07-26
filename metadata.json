@@ -1,0 +1,6 @@
+{
+  "name": "DocFusion",
+  "description": "AI-Powered PDF & Document Editor for Android with rich text editing, document imports, PDF export, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
